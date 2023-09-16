@@ -10,10 +10,7 @@ Seamless record generation and management.
 
 **Technologies Used**:
 
-JDK 1.8
-MySQL Connector Java - 8.0.13
-JDBC - 4.2
-Eclipse IDE
+JDK 1.8, MySQL Connector Java - 8.0.13, JDBC - 4.2, Eclipse IDE
 
 **Purpose**:
 
